@@ -1,26 +1,28 @@
 # List of Contents
 1. [Job Roles](#job-roles)
+
 2. [Improving Cybersecurity](#improving-cybersecurity)
-   3. [Security Models](#security-models)
+
+3. [Security Models](#security-models)
       1. [CIA Triad](#cia-triad)
       2. [DAD Triad](#dad-triad)
       3. [The Bell-La Padula Model](#the-bell-la-padula-model)
       
-   4. [Trust and Access Control](#trust-and-access-control)
+4. [Trust and Access Control](#trust-and-access-control)
       1. [Principles of Privileges](#principles-of-privileges)
       2. [Zero Trust versus Trust but Verify](#zero-trust-versus-trust-but-verify)
 
-   5. [Threat Identification and Management](#threat-identification-and-management)
+5. [Threat Identification and Management](#threat-identification-and-management)
       1. [Threat Modeling and Incident Response](#threat-modeling-and-incident-response)
       2. [Vulnerability vs Threat vs Risk](#vulnerability-vs-threat-vs-risk)
       3. [Threat Intelligence Tools](#threat-intelligence-tools)
    
-   6. [Security Assessment Frameworks and Methodologies](#security-assessment-frameworks-and-methodologies)
+6. [Security Assessment Frameworks and Methodologies](#security-assessment-frameworks-and-methodologies)
       1. [Black, Grey, & White Box Testing](#black-grey--white-box-testing)
       2. [OWASP](#owasp)
       3. [NIST](#nist-cybersecurity-framework-11)
 
-   7. [Global Security Standards](#global-security-standards)
+7. [Global Security Standards](#global-security-standards)
       1. [ISO/IEC 19249](#isoiec-19249)
       2. [ISO27001](#iso27001)
 
